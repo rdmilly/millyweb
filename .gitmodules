@@ -1,0 +1,18 @@
+[submodule "components/helix"]
+	path = components/helix
+	url = https://github.com/rdmilly/helix
+[submodule "components/mw-lead-pipeline"]
+	path = components/mw-lead-pipeline
+	url = https://github.com/rdmilly/mw-lead-pipeline
+[submodule "components/mcp-provisioner"]
+	path = components/mcp-provisioner
+	url = https://github.com/rdmilly/mcp-provisioner
+[submodule "components/git-agent"]
+	path = components/git-agent
+	url = https://github.com/rdmilly/git-agent
+[submodule "components/content-pipeline"]
+	path = components/content-pipeline
+	url = https://github.com/rdmilly/content-pipeline
+[submodule "components/paving-agent"]
+	path = components/paving-agent
+	url = https://github.com/rdmilly/paving-agent
