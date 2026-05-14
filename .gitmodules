@@ -19,3 +19,9 @@
 [submodule "components/mw-sites"]
 	path = components/mw-sites
 	url = https://github.com/rdmilly/mw-sites
+[submodule "components/signal"]
+	path = components/signal
+	url = https://github.com/rdmilly/signal
+[submodule "components/canvas"]
+	path = components/canvas
+	url = https://github.com/rdmilly/canvas
