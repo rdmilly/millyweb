@@ -25,3 +25,12 @@
 [submodule "components/canvas"]
 	path = components/canvas
 	url = https://github.com/rdmilly/canvas
+[submodule "components/hostinger-watchdog"]
+	path = components/hostinger-watchdog
+	url = https://github.com/rdmilly/hostinger-watchdog
+[submodule "components/atrium"]
+	path = components/atrium
+	url = https://github.com/rdmilly/atrium
+[submodule "components/mcp-servers"]
+	path = components/mcp-servers
+	url = https://github.com/rdmilly/mcp-servers
