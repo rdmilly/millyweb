@@ -34,3 +34,9 @@
 [submodule "components/mcp-servers"]
 	path = components/mcp-servers
 	url = https://github.com/rdmilly/mcp-servers
+[submodule "components/little-steps"]
+	path = components/little-steps
+	url = https://github.com/rdmilly/little-steps
+[submodule "components/mw-voice"]
+	path = components/mw-voice
+	url = https://github.com/rdmilly/mw-voice
