@@ -16,3 +16,6 @@
 [submodule "components/paving-agent"]
 	path = components/paving-agent
 	url = https://github.com/rdmilly/paving-agent
+[submodule "components/mw-sites"]
+	path = components/mw-sites
+	url = https://github.com/rdmilly/mw-sites
