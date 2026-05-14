@@ -13,7 +13,7 @@ Master manifest for all MW Development infrastructure components.
 |-----------|------|--------|--------|-------|
 | **helix** | [rdmilly/helix](https://github.com/rdmilly/helix) | VPS1 | ✅ live | Core AI platform — helix-mcp, The Forge, MemBrain, transcript-bridge |
 | **mw-lead-pipeline** | [rdmilly/mw-lead-pipeline](https://github.com/rdmilly/mw-lead-pipeline) | Contabo | ✅ live + git-sync | 10k leads, auto-commits on every batch |
-| **atrium** | rdmilly/atrium (needs repo) | VPS2 | 🔄 next | Engineering command center, Phase 2 complete |
+| **atrium** | [rdmilly/atrium](https://github.com/rdmilly/atrium) | VPS2 | ✅ live | Engineering command center, Phase 6 complete |
 | **mcp-provisioner** | [rdmilly/mcp-provisioner](https://github.com/rdmilly/mcp-provisioner) | VPS2 | ✅ live | 45 servers, 697 tools |
 | **mcp-servers** | [rdmilly/mcp-servers](https://github.com/rdmilly/mcp-servers) | VPS2 | ✅ live | All MCP integration servers monorepo |
 | **git-agent** | [rdmilly/git-agent](https://github.com/rdmilly/git-agent) | VPS1 | ✅ live | AI commit pipeline, ghcr.io image |
@@ -48,6 +48,7 @@ git submodule add https://github.com/rdmilly/mcp-servers components/mcp-servers
 git submodule add https://github.com/rdmilly/hostinger-watchdog components/hostinger-watchdog
 git submodule add https://github.com/rdmilly/adventures-of-shanghai components/adventures-of-shanghai
 git submodule add https://github.com/rdmilly/mw-sites components/mw-sites
+git submodule add https://github.com/rdmilly/atrium components/atrium
 ```
 
 ## Quick-restore any component
